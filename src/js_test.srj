@@ -1,0 +1,18 @@
+HA$PBExportHeader$js_test.srj
+EXE:js_test.exe,,0,1,1
+CMP:0,0,0,2,0,0,1
+COM:Sybase, Inc.
+DES:Sybase, Inc. Product File
+CPY:
+PRD:PowerBuilder Enterprise Series
+PVS:1.0.0.1
+PVN:1,0,0,1
+FVS:1.0.0.1
+FVN:1,0,0,1
+MAN:0,asInvoker,0
+PBD:js_test.pbl,,0
+OBJ:d:\progetti\gulliverweb\js_test.pbl,d_js_test,d
+OBJ:D:\Progetti\gulliverWeb\js_test.pbl,js_test,a
+OBJ:d:\progetti\gulliverweb\js_test.pbl,nc_tojquery,u
+OBJ:d:\progetti\gulliverweb\js_test.pbl,nc_js,u
+OBJ:d:\progetti\gulliverweb\js_test.pbl,w_test,w
